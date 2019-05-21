@@ -1,0 +1,8 @@
+version: '3'
+services:
+  showoff:
+    build: .
+    volumes:
+      - $PWD/my_new_pres:/srv/showoff
+    ports:
+     - "9090:9090"
