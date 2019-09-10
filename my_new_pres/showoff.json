@@ -2,8 +2,9 @@
   "name": "My Preso",
   "feedback": "true",
   "sections": [
-    {
-      "section": "one"
-    }
+    {"section": "Intro"},
+    {"section": "WebApp"},
+    {"section": "DataProcessing"},
+    {"section": "Closing"}
   ]
 }

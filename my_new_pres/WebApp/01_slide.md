@@ -1,7 +1,7 @@
 <!SLIDE >
 # Module 0: Set up AWS Cloud9
 
-![Cloud9](mod00_step01.png)
+![Cloud9](mod00.png)
 
 Features:
 
@@ -12,4 +12,8 @@ Features:
   * Git, AWS CLI, Node.js, JavaScript, Python, PHP, Ruby, Go, C++, etc
 * Direct terminal access
 
-[Link to module 0](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/0_Setup)
+[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/0_Setup)
+
+~~~SECTION:notes~~~
+
+~~~ENDSECTION~~~
