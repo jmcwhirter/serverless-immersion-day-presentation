@@ -1,9 +1,7 @@
 <!SLIDE >
-# Module 2: User management
+# Module 2: Stream aggregation
 
-![Cognito](mod02.png)
+![Stream aggregation](data_processing_2.png)
 
-### Cognito
+### Amazon Kinesis Data Analytics
 * Insert features
-
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/2_UserManagement)

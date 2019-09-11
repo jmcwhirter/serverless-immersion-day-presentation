@@ -1,15 +1,9 @@
 <!SLIDE >
-# Module 1: Static web hosting
+# Module 1: Real-time streaming
 
-![Amplify](mod01.png)
+.callout.thumbsup Create an Amazon Cognito **Identity** Pool
 
-### Code*
-* Fully-managed source control service; Git-based repositories
-* Collaborate using branching, pull requests, etc
+![Real-time streaming](data_processing_1.png)
 
-### Amplify
-* Supports GraphQL or REST API backends
-* Supports Single Page Application (SPA) frameworks
-  * React, Angular, Vue, or Gatsby
-
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting)
+### Amazon Kinesis
+*

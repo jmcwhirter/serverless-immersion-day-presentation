@@ -1,7 +1,7 @@
 <!SLIDE >
 # Module 1: Static web hosting
 
-![Amplify](mod01.png)
+![Amplify](web_application_1.png)
 
 ### Code*
 * Fully-managed source control service; Git-based repositories
@@ -11,5 +11,3 @@
 * Supports GraphQL or REST API backends
 * Supports Single Page Application (SPA) frameworks
   * React, Angular, Vue, or Gatsby
-
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting)

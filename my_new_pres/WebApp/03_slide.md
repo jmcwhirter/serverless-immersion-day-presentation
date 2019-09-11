@@ -1,9 +1,9 @@
 <!SLIDE >
 # Module 2: User management
 
-![Cognito](mod02.png)
+![Cognito](web_application_2.png)
 
 ### Cognito
-* Insert features
-
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/2_UserManagement)
+* Fully managed, secure user directory
+* Scales to manage hundreds of millions of users
+* Standards-based authentication such as OpenID Connect, OAuth 2.0, and SAML 2.0

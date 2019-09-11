@@ -1,9 +1,10 @@
 <!SLIDE >
 # Module 3: Serverless backend
 
-![Lambda](mod03.png)
+![Lambda](web_application_3.png)
 
 ### Lambda
-* Insert features
+* Serverless compute run in response to events
 
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/3_ServerlessBackend)
+### DynamoDB
+* Single digit millisecond response time

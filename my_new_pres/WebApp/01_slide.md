@@ -1,7 +1,7 @@
 <!SLIDE >
 # Module 0: Set up AWS Cloud9
 
-![Cloud9](mod00.png)
+![Cloud9](web_application_0.png)
 
 Features:
 
@@ -11,8 +11,6 @@ Features:
 * Prepackaged tools for over 40 programming languages
   * Git, AWS CLI, Node.js, JavaScript, Python, PHP, Ruby, Go, C++, etc
 * Direct terminal access
-
-[Link to module](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/0_Setup)
 
 ~~~SECTION:notes~~~
 
