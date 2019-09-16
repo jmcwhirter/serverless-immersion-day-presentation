@@ -4,6 +4,3 @@
 .callout.thumbsup Create an Amazon Cognito **Identity** Pool
 
 ![Real-time streaming](data_processing_1.png)
-
-### Amazon Kinesis
-*

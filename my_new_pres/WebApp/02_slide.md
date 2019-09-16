@@ -3,11 +3,14 @@
 
 ![Amplify](web_application_1.png)
 
-### Code*
-* Fully-managed source control service; Git-based repositories
-* Collaborate using branching, pull requests, etc
+~~~SECTION:notes~~~
+Fully-managed source control service; Git-based repositories
 
-### Amplify
-* Supports GraphQL or REST API backends
-* Supports Single Page Application (SPA) frameworks
-  * React, Angular, Vue, or Gatsby
+Collaborate using branching, pull requests, etc
+
+Amplify -
+
+Supports GraphQL or REST API backends
+
+Supports Single Page Application (SPA) frameworks
+~~~ENDSECTION~~~

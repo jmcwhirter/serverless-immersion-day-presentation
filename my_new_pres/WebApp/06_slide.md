@@ -1,8 +1,13 @@
-<!SLIDE activity>
-# Let's Build!
+<!SLIDE center noprint subsection>
+# Trivia!
 
-1. [Setup](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/0_Setup)
-1. [Static web hosting](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/1_StaticWebHosting)
-1. [User Management](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/2_UserManagement)
-1. [Serverless Backend](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/3_ServerlessBackend)
-1. [RESTful APIs](https://github.com/aws-samples/aws-serverless-workshops/tree/master/WebApplication/4_RESTfulAPIs)
+~~~SECTION:notes~~~
+Q: How many users does Cognito support in a single user pool?
+
+A: 20 million
+
+1000 pools per account
+
+Soft limit
+
+~~~ENDSECTION~~~

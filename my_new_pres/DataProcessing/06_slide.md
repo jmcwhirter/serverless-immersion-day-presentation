@@ -1,4 +1,4 @@
-<!SLIDE activity>
+<!SLIDE noprint activity>
 # Let's Build!
 
 1. [Setup](https://dataprocessing.wildrydes.com/setup.html)

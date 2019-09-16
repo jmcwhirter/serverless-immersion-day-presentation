@@ -1,4 +1,4 @@
-<!SLIDE >
+<!SLIDE noprint>
 # Thank you!
 
 <br>
@@ -10,6 +10,5 @@
 
 <img src="decision_tree.png" height="200" align="center"><br><br>
 
-## 2. Beer 🍻
-
-* Happy hour until 6pm
+## 2. Happy hour until 6pm 🍻
+* Please enjoy responsibly. Not an Amazon sponsored event.
