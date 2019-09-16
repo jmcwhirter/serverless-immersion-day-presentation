@@ -9,6 +9,6 @@ WORKDIR /srv/showoff
 
 VOLUME ["/srv/showoff"]
 
-EXPOSE 9090
+EXPOSE 80
 
-CMD ["showoff", "serve"]
+CMD ["showoff", "serve", "-p", "80"]
