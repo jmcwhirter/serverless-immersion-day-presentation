@@ -1,13 +1,14 @@
-<!SLIDE activity>
-# Let's Build!
+<!SLIDE center noprint subsection>
+# Trivia!
 
-1. [Setup](https://dataprocessing.wildrydes.com/setup.html)
-  * https://dataprocessing.wildrydes.com/setup.html
-1. [Streaming data](https://dataprocessing.wildrydes.com/streaming-data.html)
-  * https://dataprocessing.wildrydes.com/streaming-data.html
-1. [Streaming aggregation](https://dataprocessing.wildrydes.com/streaming-aggregation.html)
-  * https://dataprocessing.wildrydes.com/streaming-aggregation.html
-1. [Stream processing](https://dataprocessing.wildrydes.com/stream-processing.html)
-  * https://dataprocessing.wildrydes.com/stream-processing.html
-1. [Data Lake](https://dataprocessing.wildrydes.com/data-lake.html)
-  * https://dataprocessing.wildrydes.com/data-lake.html
+~~~SECTION:notes~~~
+
+Q: Which year were both the ECS (Elastic Container Service) and Lambda announced at re:Invent?
+
+A: 2014
+
+Q: What year was the first re:Invent held?
+
+A: 2012
+
+~~~ENDSECTION~~~

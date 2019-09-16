@@ -1,2 +1,2 @@
-<!SLIDE center subsection>
+<!SLIDE noprint center subsection>
 # Lunch

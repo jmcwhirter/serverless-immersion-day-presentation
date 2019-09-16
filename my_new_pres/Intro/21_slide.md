@@ -2,7 +2,7 @@
 # Trivia!
 
 ~~~SECTION:notes~~~
-Q: What software design style preceded microservices?
+Q: Microservices are a variant of what other popular architectural style?
 
 A: Service-oriented architecture
 ~~~ENDSECTION~~~
